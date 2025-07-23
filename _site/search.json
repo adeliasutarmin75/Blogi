@@ -1,0 +1,436 @@
+{
+  "posts": [
+    
+      {
+        "title": "Kitchen Renovation Tips: Transform Your Space on Any Budget",
+        "url": "/ezz-terss/kitchen-renovation-tips-any-budget/",
+        "date": "January 05, 2025",
+        "content": "# Kitchen Renovation Tips: Transform Your Space on Any Budget\n\nThe kitchen is often called the heart of the home, and a well-planned renovation can...",
+        "excerpt": "Essential tips for renovating your kitchen without breaking the bank, plus professional insights for every budget level.",
+        "categories": [
+          
+            "renovation",
+          
+            "kitchen"
+          
+        ],
+        "tags": [
+          
+            "kitchen",
+          
+            "renovation",
+          
+            "budget",
+          
+            "diy",
+          
+            "home-improvement"
+          
+        ]
+      },
+    
+      {
+        "title": "Modern Home Design Inspiration for 2025",
+        "url": "/ezz-terss/modern-home-design-inspiration-2025/",
+        "date": "January 04, 2025",
+        "content": "# Modern Home Design Inspiration for 2025\n\nThe world of interior design is constantly evolving, and 2025 brings exciting new trends that blend func...",
+        "excerpt": "Discover the latest trends in modern home design that will transform your living space in 2025.",
+        "categories": [
+          
+            "design",
+          
+            "interior"
+          
+        ],
+        "tags": [
+          
+            "home-design",
+          
+            "modern",
+          
+            "inspiration",
+          
+            "interior-design"
+          
+        ]
+      },
+    
+      {
+        "title": "Customizing Your Blog",
+        "url": "/ezz-terss/customizing-your-blog/",
+        "date": "January 03, 2025",
+        "content": "## Personalizing Your Blog\n\nMaking your blog unique is important for building your brand and connecting with your audience.\n\n### Configuration\n\nSta...",
+        "excerpt": "Learn how to customize and personalize your Jekyll blog.",
+        "categories": [
+          
+            "customization",
+          
+            "design"
+          
+        ],
+        "tags": [
+          
+            "customization",
+          
+            "css",
+          
+            "design"
+          
+        ]
+      },
+    
+      {
+        "title": "Getting Started with Jekyll",
+        "url": "/ezz-terss/getting-started-with-jekyll/",
+        "date": "January 02, 2025",
+        "content": "## Introduction to Jekyll\n\nJekyll is a static site generator that transforms your plain text into static websites and blogs. It's perfect for creat...",
+        "excerpt": "Learn the basics of Jekyll static site generator.",
+        "categories": [
+          
+            "jekyll",
+          
+            "tutorial"
+          
+        ],
+        "tags": [
+          
+            "jekyll",
+          
+            "static-site",
+          
+            "tutorial"
+          
+        ]
+      },
+    
+      {
+        "title": "Welcome to My Blog",
+        "url": "/ezz-terss/welcome-to-my-blog/",
+        "date": "January 01, 2025",
+        "content": "## Welcome to Your New Blog\n\nThis is your first blog post! You can edit this file to customize it with your own content. \n\n### Getting Started\n\nThi...",
+        "excerpt": "Welcome to my blog! This is your first post to get you started.",
+        "categories": [
+          
+            "blogging",
+          
+            "welcome"
+          
+        ],
+        "tags": [
+          
+            "introduction",
+          
+            "first-post"
+          
+        ]
+      }
+    
+  ],
+  "pages": [
+    
+      
+    
+      
+      {
+        "title": "About",
+        "url": "/ezz-terss/about/",
+        "content": "## About This Blog\n\nWelcome to my blog! This is a place where I share my thoughts, experiences, a..."
+      },
+      
+    
+      
+      {
+        "title": "Archive",
+        "url": "/ezz-terss/archive/",
+        "content": "# Post Archive\n\nBrowse all posts organized by date and category.\n\n## Posts by Year\n\n{% assign pos..."
+      },
+      
+    
+      
+      {
+        "title": "Kategori",
+        "url": "/ezz-terss/categories/",
+        "content": "\n  \n    {{ page.title }}\n  \n  \n  \n    {% assign sorted_categories = site.categories | sort %}\n   ..."
+      },
+      
+    
+      
+      {
+        "title": "Contact",
+        "url": "/ezz-terss/contact/",
+        "content": "## Get in Touch\n\nHave a question, suggestion, or just want to say hello? I'd love to hear from yo..."
+      },
+      
+    
+      
+      {
+        "title": "Cookie Policy",
+        "url": "/ezz-terss/cookie-policy/",
+        "content": "# Cookie Policy\n\n**Effective Date: {{ site.time | date: \"%B %d, %Y\" }}**\n\n## What Are Cookies\n\nCo..."
+      },
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/ezz-terss/assets/css/custom.css",
+        "content": "html,body{overflow-x:hidden !important;width:100%;position:relative;height:auto;margin:0;padding:..."
+      },
+      
+    
+      
+      {
+        "title": "Disclaimer",
+        "url": "/ezz-terss/disclaimer/",
+        "content": "## Disclaimer\n\nWelcome to our blog. The information provided on this website is for general infor..."
+      },
+      
+    
+      
+      {
+        "title": "Documentation",
+        "url": "/ezz-terss/documentation/",
+        "content": "# Dokumentasi Blog\n\nSelamat datang di pusat dokumentasi kami! Halaman ini menyediakan panduan len..."
+      },
+      
+    
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/ezz-terss/assets/css/fix-vibration.css",
+        "content": "html{scroll-behavior:auto !important;overflow-y:scroll}body{-webkit-font-smoothing:antialiased;-m..."
+      },
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/ezz-terss/assets/css/footer-responsive.css",
+        "content": ".site-footer{padding:2rem 0;background-color:var(--footer-bg);color:var(--footer-text);text-align..."
+      },
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/ezz-terss/assets/css/image-styles.css",
+        "content": ".popular-post-item .post-thumbnail{position:relative;overflow:hidden}.popular-post-item .post-thu..."
+      },
+      
+    
+      
+      {
+        "title": "introduction",
+        "url": "/ezz-terss/tag/introduction/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "first-post",
+        "url": "/ezz-terss/tag/first-post/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "jekyll",
+        "url": "/ezz-terss/tag/jekyll/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "static-site",
+        "url": "/ezz-terss/tag/static-site/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "tutorial",
+        "url": "/ezz-terss/tag/tutorial/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "customization",
+        "url": "/ezz-terss/tag/customization/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "css",
+        "url": "/ezz-terss/tag/css/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "design",
+        "url": "/ezz-terss/tag/design/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "Semua Tag",
+        "url": "/ezz-terss/tag/",
+        "content": "\n  \n    {{ page.title }}\n    Pilih tag di bawah ini untuk melihat artikel-artikel terkait.\n  \n  \n..."
+      },
+      
+    
+      
+      {
+        "title": "blogging",
+        "url": "/ezz-terss/category/blogging/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "welcome",
+        "url": "/ezz-terss/category/welcome/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "jekyll",
+        "url": "/ezz-terss/category/jekyll/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "tutorial",
+        "url": "/ezz-terss/category/tutorial/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "customization",
+        "url": "/ezz-terss/category/customization/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "design",
+        "url": "/ezz-terss/category/design/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "My Blog Template - Clean Jekyll Blog",
+        "url": "/ezz-terss/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/ezz-terss/assets/css/main.css",
+        "content": ".d-none{display:none !important}.d-block{display:block !important}.d-flex{display:flex !important..."
+      },
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/ezz-terss/assets/css/mobile-scroll-fix.css",
+        "content": "html,body{-webkit-overflow-scrolling:touch;height:100%;overscroll-behavior:none;overflow-x:hidden..."
+      },
+      
+    
+      
+      {
+        "title": "Privacy Policy",
+        "url": "/ezz-terss/_pages/privacy-policy/",
+        "content": "Selamat datang di **Bloggers.web.id**, situs yang dikelola oleh Mas Dee. Kami berkomitmen untuk m..."
+      },
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/ezz-terss/robots.txt",
+        "content": "User-agent: *\nSitemap: {{ '/sitemap.xml' | absolute_url }}\n\n# Allow crawling of all content\nAllow..."
+      },
+      
+    
+      
+      {
+        "title": "Search",
+        "url": "/ezz-terss/search/",
+        "content": "\n  \n    \n      \n        \n        \n          \n        \n      \n    \n  \n  \n  \n    Enter your search ..."
+      },
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/ezz-terss/search.json",
+        "content": "{\n  \"posts\": [\n    {% for post in site.posts %}\n      {\n        \"title\": {{ post.title | jsonify ..."
+      },
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/ezz-terss/assets/css/sidebar-images.css",
+        "content": "/**\n * Enhanced styles for Popular Posts sidebar images\n */\n\n/* Optimize sidebar popular posts */..."
+      },
+      
+    
+      
+    
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/ezz-terss/assets/css/styles.css",
+        "content": "@import \"main\";\n"
+      },
+      
+    
+      
+      {
+        "title": "Tag",
+        "url": "/ezz-terss/tags/",
+        "content": "\n  \n    {{ page.title }}\n    Eksplorasi semua artikel berdasarkan tag. Klik pada tag untuk meliha..."
+      },
+      
+    
+      
+      {
+        "title": "Terms of Service",
+        "url": "/ezz-terss/terms-of-service/",
+        "content": "# Terms of Service\n\n**Effective Date: {{ site.time | date: \"%B %d, %Y\" }}**\n\n## 1. Acceptance of ..."
+      }
+      
+    
+  ]
+}

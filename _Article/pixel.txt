@@ -1,0 +1,10 @@
+# Pixel API Configuration for Image Generation
+# Format: API_KEY|ENDPOINT_URL|MAX_REQUESTS_PER_DAY
+PIXEL_API_KEY_1=your-pixel-api-key-1|https://api.pixels.com/v1/|1000
+PIXEL_API_KEY_2=your-pixel-api-key-2|https://api.pixels.com/v1/|1000
+PIXEL_API_KEY_3=your-pixel-api-key-3|https://api.pixels.com/v1/|1000
+
+# Backup image sources
+UNSPLASH_ACCESS_KEY=your-unsplash-access-key
+PIXABAY_API_KEY=your-pixabay-api-key
+PEXELS_API_KEY=your-pexels-api-key
