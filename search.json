@@ -1,0 +1,436 @@
+{
+  "posts": [
+    
+      {
+        "title": "Kitchen Renovation Tips: Transform Your Space on Any Budget",
+        "url": "/Blogi/kitchen-renovation-tips-any-budget/",
+        "date": "January 05, 2025",
+        "content": "Kitchen Renovation Tips: Transform Your Space on Any Budget\n\nThe kitchen is often called the heart of the home, and a well-planned renovation can d...",
+        "excerpt": "Essential tips for renovating your kitchen without breaking the bank, plus professional insights for every budget level.",
+        "categories": [
+          
+            "renovation",
+          
+            "kitchen"
+          
+        ],
+        "tags": [
+          
+            "kitchen",
+          
+            "renovation",
+          
+            "budget",
+          
+            "diy",
+          
+            "home-improvement"
+          
+        ]
+      },
+    
+      {
+        "title": "Modern Home Design Inspiration for 2025",
+        "url": "/Blogi/modern-home-design-inspiration-2025/",
+        "date": "January 04, 2025",
+        "content": "Modern Home Design Inspiration for 2025\n\nThe world of interior design is constantly evolving, and 2025 brings exciting new trends that blend functi...",
+        "excerpt": "Discover the latest trends in modern home design that will transform your living space in 2025.",
+        "categories": [
+          
+            "design",
+          
+            "interior"
+          
+        ],
+        "tags": [
+          
+            "home-design",
+          
+            "modern",
+          
+            "inspiration",
+          
+            "interior-design"
+          
+        ]
+      },
+    
+      {
+        "title": "Customizing Your Blog",
+        "url": "/Blogi/customizing-your-blog/",
+        "date": "January 03, 2025",
+        "content": "Personalizing Your Blog\n\nMaking your blog unique is important for building your brand and connecting with your audience.\n\nConfiguration\n\nStart by e...",
+        "excerpt": "Learn how to customize and personalize your Jekyll blog.",
+        "categories": [
+          
+            "customization",
+          
+            "design"
+          
+        ],
+        "tags": [
+          
+            "customization",
+          
+            "css",
+          
+            "design"
+          
+        ]
+      },
+    
+      {
+        "title": "Getting Started with Jekyll",
+        "url": "/Blogi/getting-started-with-jekyll/",
+        "date": "January 02, 2025",
+        "content": "Introduction to Jekyll\n\nJekyll is a static site generator that transforms your plain text into static websites and blogs. It’s perfect for creating...",
+        "excerpt": "Learn the basics of Jekyll static site generator.",
+        "categories": [
+          
+            "jekyll",
+          
+            "tutorial"
+          
+        ],
+        "tags": [
+          
+            "jekyll",
+          
+            "static-site",
+          
+            "tutorial"
+          
+        ]
+      },
+    
+      {
+        "title": "Welcome to My Blog",
+        "url": "/Blogi/welcome-to-my-blog/",
+        "date": "January 01, 2025",
+        "content": "Welcome to Your New Blog\n\nThis is your first blog post! You can edit this file to customize it with your own content.\n\nGetting Started\n\nThis Jekyll...",
+        "excerpt": "Welcome to my blog! This is your first post to get you started.",
+        "categories": [
+          
+            "blogging",
+          
+            "welcome"
+          
+        ],
+        "tags": [
+          
+            "introduction",
+          
+            "first-post"
+          
+        ]
+      }
+    
+  ],
+  "pages": [
+    
+      
+    
+      
+      {
+        "title": "About",
+        "url": "/Blogi/about/",
+        "content": "About This Blog\n\nWelcome to my blog! This is a place where I share my thoughts, experiences, and ..."
+      },
+      
+    
+      
+      {
+        "title": "Archive",
+        "url": "/Blogi/archive/",
+        "content": "Post Archive\n\nBrowse all posts organized by date and category.\n\nPosts by Year\n\n2025\n\n\n\n\n\n### Janu..."
+      },
+      
+    
+      
+      {
+        "title": "Kategori",
+        "url": "/Blogi/categories/",
+        "content": "\n  \n    Kategori\n  \n  \n  \n    \n    \n      \n      \n      \n      \n        blogging (1)\n      \n    \n..."
+      },
+      
+    
+      
+      {
+        "title": "Contact",
+        "url": "/Blogi/contact/",
+        "content": "Get in Touch\n\nHave a question, suggestion, or just want to say hello? I’d love to hear from you!\n..."
+      },
+      
+    
+      
+      {
+        "title": "Cookie Policy",
+        "url": "/Blogi/cookie-policy/",
+        "content": "Cookie Policy\n\nEffective Date: July 23, 2025\n\nWhat Are Cookies\n\nCookies are small text files that..."
+      },
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/Blogi/assets/css/custom.css",
+        "content": "html,body{overflow-x:hidden !important;width:100%;position:relative;height:auto;margin:0;padding:..."
+      },
+      
+    
+      
+      {
+        "title": "Disclaimer",
+        "url": "/Blogi/disclaimer/",
+        "content": "Disclaimer\n\nWelcome to our blog. The information provided on this website is for general informat..."
+      },
+      
+    
+      
+      {
+        "title": "Documentation",
+        "url": "/Blogi/documentation/",
+        "content": "Dokumentasi Blog\n\nSelamat datang di pusat dokumentasi kami! Halaman ini menyediakan panduan lengk..."
+      },
+      
+    
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/Blogi/assets/css/fix-vibration.css",
+        "content": "html{scroll-behavior:auto !important;overflow-y:scroll}body{-webkit-font-smoothing:antialiased;-m..."
+      },
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/Blogi/assets/css/footer-responsive.css",
+        "content": ".site-footer{padding:2rem 0;background-color:var(--footer-bg);color:var(--footer-text);text-align..."
+      },
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/Blogi/assets/css/image-styles.css",
+        "content": ".popular-post-item .post-thumbnail{position:relative;overflow:hidden}.popular-post-item .post-thu..."
+      },
+      
+    
+      
+      {
+        "title": "customization",
+        "url": "/Blogi/tag/customization/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "design",
+        "url": "/Blogi/tag/design/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "tutorial",
+        "url": "/Blogi/tag/tutorial/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "jekyll",
+        "url": "/Blogi/tag/jekyll/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "static-site",
+        "url": "/Blogi/tag/static-site/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "introduction",
+        "url": "/Blogi/tag/introduction/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "first-post",
+        "url": "/Blogi/tag/first-post/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "css",
+        "url": "/Blogi/tag/css/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "Semua Tag",
+        "url": "/Blogi/tag/",
+        "content": "\n  \n    Semua Tag\n    Pilih tag di bawah ini untuk melihat artikel-artikel terkait.\n  \n  \n  \n    ..."
+      },
+      
+    
+      
+      {
+        "title": "welcome",
+        "url": "/Blogi/category/welcome/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "customization",
+        "url": "/Blogi/category/customization/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "design",
+        "url": "/Blogi/category/design/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "tutorial",
+        "url": "/Blogi/category/tutorial/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "jekyll",
+        "url": "/Blogi/category/jekyll/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "blogging",
+        "url": "/Blogi/category/blogging/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "My Blog Template - Clean Jekyll Blog",
+        "url": "/Blogi/",
+        "content": ""
+      },
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/Blogi/assets/css/main.css",
+        "content": ".d-none{display:none !important}.d-block{display:block !important}.d-flex{display:flex !important..."
+      },
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/Blogi/assets/css/mobile-scroll-fix.css",
+        "content": "html,body{-webkit-overflow-scrolling:touch;height:100%;overscroll-behavior:none;overflow-x:hidden..."
+      },
+      
+    
+      
+      {
+        "title": "Privacy Policy",
+        "url": "/Blogi/_pages/privacy-policy/",
+        "content": "Selamat datang di Bloggers.web.id, situs yang dikelola oleh Mas Dee. Kami berkomitmen untuk menja..."
+      },
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/Blogi/robots.txt",
+        "content": "User-agent: *\nSitemap: https://adeliasutarmin75.github.io/Blogi/sitemap.xml\n\n# Allow crawling of ..."
+      },
+      
+    
+      
+      {
+        "title": "Search",
+        "url": "/Blogi/search/",
+        "content": "\n  \n    \n      \n        \n        \n          \n        \n      \n    \n  \n  \n  \n    Enter your search ..."
+      },
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/Blogi/search.json",
+        "content": "{\n  \"posts\": [\n    {% for post in site.posts %}\n      {\n        \"title\": {{ post.title | jsonify ..."
+      },
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/Blogi/assets/css/sidebar-images.css",
+        "content": "/**\n * Enhanced styles for Popular Posts sidebar images\n */\n\n/* Optimize sidebar popular posts */..."
+      },
+      
+    
+      
+    
+      
+    
+      
+      {
+        "title": "Page",
+        "url": "/Blogi/assets/css/styles.css",
+        "content": "@import \"main\";\n"
+      },
+      
+    
+      
+      {
+        "title": "Tag",
+        "url": "/Blogi/tags/",
+        "content": "\n  \n    {{ page.title }}\n    Eksplorasi semua artikel berdasarkan tag. Klik pada tag untuk meliha..."
+      },
+      
+    
+      
+      {
+        "title": "Terms of Service",
+        "url": "/Blogi/terms-of-service/",
+        "content": "# Terms of Service\n\n**Effective Date: {{ site.time | date: \"%B %d, %Y\" }}**\n\n## 1. Acceptance of ..."
+      }
+      
+    
+  ]
+}
